@@ -1,0 +1,8 @@
+matplotlib==3.0.3
+numpy==1.14.6
+nltk==3.4
+plotly==4.3.0
+gensim==3.8.1
+scipy==1.2.1
+streamlit==0.50.2
+scikit_learn==0.22.1
